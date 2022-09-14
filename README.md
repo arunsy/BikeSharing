@@ -39,7 +39,6 @@ We derived few factors influencing the user to use bike sharing platform and the
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by BoomBikes (bike sharing platform).
 - This project was based on [this tutorial](https://drive.google.com/drive/folders/1_GhtF0FpyepLFWLqfwDrOmIuQtGRFdHL).
 

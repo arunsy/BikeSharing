@@ -1,0 +1,6 @@
+Bike Sharing Assignment is shared on this GitHub path: https://github.com/arung0/BikeSharingAssignment
+
+Following files are shared in this repository.
+- MLC42_Arun.G_BikeSharing_Assignment.ipynb (Python Notebook)
+- Linear-Regression-Subjective-Answers.pdf (PDF format)
+- README.md
