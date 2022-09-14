@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Build the model to find the demand of bike sharing (BoomBikes) which will be used by the management to understand exact demands vary with different features.
 
 
 ## Table of Contents
@@ -11,38 +11,41 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Build the model to find the demands of bike sharing and identify the factors influencing the user to use bike sharing platform
+- Business problem is management wants to understand and decide the business strategy to meet the demand levels & customer's expectations. To understand the demand dynamics of a new market.
+- day.csv dataset is used to analyse this scenario.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+We derived few factors influencing the user to use bike sharing platform and the variables which affects the demand.
+
+- Temperature and the seasons are like winter, summer and when there is working day, week days, users has high interested to use bike sharing. It is directly proportional, these variable can be considered to attract more users for future demand.
+
+- During holiday or when there is high windspeed or suppose the season is mist, light snow, users are not having interested to utilise bike sharing platform. It is inverse proportion, some strategy can be formed to improve during the scenarios.Conclusion 1 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- JupyterLab 3.3.2
+- Python 3.9.12
+- Pandas
+- Matplotlib
+- Seaborn
+- SciKit-Learn
+- Stats Models
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by BoomBikes (bike sharing platform).
+- This project was based on [this tutorial](https://drive.google.com/drive/folders/1_GhtF0FpyepLFWLqfwDrOmIuQtGRFdHL).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@arung0](https://github.com/arung0) - feel free to contact me!
 
 
 <!-- Optional -->
