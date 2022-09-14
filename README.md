@@ -1,5 +1,5 @@
-# Project Name
-> Build the model to find the demand of bike sharing (BoomBikes). This helps management to understand exact demands vary with different features.
+# Bike Sharing (Boom Bikes)
+> Build the model to find the demand of bike sharing (Boom Bikes). This helps management to understand exact demands vary with different features.
 
 
 ## Table of Contents
