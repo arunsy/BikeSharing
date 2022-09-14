@@ -1,5 +1,5 @@
 # Project Name
-> Build the model to find the demand of bike sharing (BoomBikes) which will be used by the management to understand exact demands vary with different features.
+> Build the model to find the demand of bike sharing (BoomBikes). This helps management to understand exact demands vary with different features.
 
 
 ## Table of Contents
@@ -11,18 +11,17 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Build the model to find the demands of bike sharing and identify the factors influencing the user to use bike sharing platform
-- Business problem is management wants to understand and decide the business strategy to meet the demand levels & customer's expectations. To understand the demand dynamics of a new market.
-- day.csv dataset is used to analyse this scenario.
+- Business problem is management wants to understand the affecting variables. Then forms the business strategy to meet the demand level & customer  expectation. To understand the demand dynamics of a new market.
+- day.csv dataset has used to analyse this scenario.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+<!-- You don't have to answer all the questions - the ones relevant to your project. -->
 
 ## Conclusions
-We derived few factors influencing the user to use bike sharing platform and the variables which affects the demand.
+We derived few factors influencing the user to utilise bike sharing platform and the variables which affects the demand.
 
-- Temperature and the seasons are like winter, summer and when there is working day, week days, users has high interested to use bike sharing. It is directly proportional, these variable can be considered to attract more users for future demand.
+- Temperature, the seasons (winter, summer), when it's working day & week days has influenced users to use bike sharing significant. It is direct proportional and these variable can considered to attract more users for future demand.
 
-- During holiday or when there is high windspeed or suppose the season is mist, light snow, users are not having interested to utilise bike sharing platform. It is inverse proportion, some strategy can be formed to improve during the scenarios.Conclusion 1 from the analysis
+- During holiday or when there is high windspeed or suppose the season is mist or light snow, users are not interested to utilise bike sharing. It is inverse proportional & form the effective strategy to improve during the scenario.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -36,11 +35,11 @@ We derived few factors influencing the user to use bike sharing platform and the
 - SciKit-Learn
 - Stats Models
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+<!-- As the libraries versions keep on changing, it recommends to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This project was inspired by BoomBikes (bike sharing platform).
-- This project was based on [this tutorial](https://drive.google.com/drive/folders/1_GhtF0FpyepLFWLqfwDrOmIuQtGRFdHL).
+- This project inspired by BoomBikes (bike sharing platform).
+- This project based on [this tutorial](https://drive.google.com/drive/folders/1_GhtF0FpyepLFWLqfwDrOmIuQtGRFdHL).
 
 
 ## Contact
